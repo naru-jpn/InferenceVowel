@@ -1,2 +1,4 @@
 # InferenceVowel
-Demo Application for Inference of vowel
+Demo Application for Inference of vowel.
+
+
